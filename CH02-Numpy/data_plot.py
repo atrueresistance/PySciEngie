@@ -8,3 +8,4 @@ import matplotlib.pyplot as plt
 
 # create x, randomly spaced between 0 to 20
 x = np.linspace(0,20,10)
+print(x)
